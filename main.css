@@ -4,6 +4,8 @@
 
 header {
   background-color: red;
+  height: 100px;
+  text-align: center;
   color: white;
 }
 
