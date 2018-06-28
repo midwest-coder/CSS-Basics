@@ -1,0 +1,23 @@
+header {
+  background-color: red;
+  color: white;
+}
+
+header:hover {
+  background-color: orange;
+  color: blue;
+}
+
+main {
+  background-color: gray;
+}
+
+section {
+  background-color: blue;
+  color: orange;
+}
+
+section::first-letter {
+  color: white;
+  font-size: 30px;
+}
